@@ -1,0 +1,50 @@
+body{
+
+    background-color: rgb(141, 179, 212);
+text-align: center;
+}
+#pic{
+    width:200px;
+    height: 250px;
+    border: 10px solid;
+    border-color: cadetblue;
+
+
+}
+#btn1{
+
+    color: rgb(132, 8, 103);
+    width:300px;
+    background-color: aquamarine;
+
+}
+#btn2{
+    color: rgb(132, 8, 103);
+     width:300px;
+    background-color: aquamarine;
+
+}
+p{
+    text-shadow: 1px;
+    color:rgb(20, 103, 106);
+    font-size: 15px;
+
+}
+#bulb{
+    border: 10px solid;
+    width: 200px;
+    height: 250px;
+    border-color: cadetblue;
+}
+
+
+
+
+#footer{
+    
+    text-shadow: 2px 2px 5px teal;
+    background-color: white;
+    padding: 5px;
+    color:rgb(45, 94, 77);
+}
+
